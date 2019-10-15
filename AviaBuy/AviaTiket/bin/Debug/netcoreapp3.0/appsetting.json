@@ -1,0 +1,9 @@
+{
+  "AppConfig": {
+    "ProviderName": "System.Data.SqlClient"
+
+  },
+  "ConnectionStrings": {
+    "DebugConnectionString": "Server=A-305-Teacher;Database=ShopDb;Trusted_Connection=True;"
+  }
+}
